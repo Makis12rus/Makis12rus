@@ -1,5 +1,9 @@
 <h1 align="center">⚡ Maksim Shcheglov</h1>
-<h3 align="center">AI-Native Python & Automation Engineer | Multi-Agent Systems Architect</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E050&center=true&vCenter=true&width=600&lines=AI-Native+Python+%26+Automation+Engineer;Multi-Agent+Systems+Architect;RAG+%26+High-Load+Data+Pipelines;PySide6+%26+Desktop+Automation" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://t.me/makis_tlg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
