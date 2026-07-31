@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Maksim Shcheglov</h1>
+<h1 align="center">⚡ Максим Щеглов</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E050&center=true&vCenter=true&width=600&lines=AI-Native+Python+%26+Automation+Engineer;Multi-Agent+Systems+Architect;RAG+%26+High-Load+Data+Pipelines;PySide6+%26+Desktop+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E050&center=true&vCenter=true&width=750&lines=AI-Native+Python+%26+Automation+Engineer;Multi-Agent+Systems+Architect;RAG+%26+High-Load+Data+Pipelines;PySide6+%26+Desktop+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,js,vscode,pycharm&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,js,vscode,pycharm&perline=10" />
 </p>
 
 ---
