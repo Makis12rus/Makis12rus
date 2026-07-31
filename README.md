@@ -79,9 +79,9 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/github/followers/Makis12rus?label=Подписчики&style=for-the-badge&color=00E050&logo=github" />
+    <img src="https://img.shields.io/github/followers/Makis12rus?style=for-the-badge&color=00E050&logo=github" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/github/stars/Makis12rus?label=Звезды&style=for-the-badge&color=FFD700&logo=github" />
+    <img src="https://img.shields.io/github/stars/Makis12rus?style=for-the-badge&color=FFD700&logo=github" />
   </a>
 </p>
