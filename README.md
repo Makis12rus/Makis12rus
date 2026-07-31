@@ -63,6 +63,9 @@
 ### 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Makis12rus&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makis12rus&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Makis12rus?label=Followers&style=for-the-badge&color=00E050&logo=github" />
+  <img src="https://img.shields.io/github/stars/Makis12rus?label=Stars&style=for-the-badge&color=FFD700&logo=github" />
 </p>
