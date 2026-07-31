@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Максим Щеглов</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E050&center=true&vCenter=true&width=750&lines=AI-Native+Python+%26+Automation+Engineer;Multi-Agent+Systems+Architect;RAG+%26+High-Load+Data+Pipelines;PySide6+%26+Desktop+Automation" alt="Typing SVG" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00E050&center=true&vCenter=true&width=800&lines=AI-Native+Python+%26+Automation+Engineer;Multi-Agent+Systems+Architect;RAG+%26+High-Load+Data+Pipelines;PySide6+%26+Desktop+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,js,vscode,pycharm&perline=10" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,linux,js,vscode,pycharm&perline=10" />
+  </a>
 </p>
 
 ---
@@ -71,9 +73,15 @@
 ### 📊 Телеметрия GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" />
+  <a href="#">
+    <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Makis12rus?label=Подписчики&style=for-the-badge&color=00E050&logo=github" />
-  <img src="https://img.shields.io/github/stars/Makis12rus?label=Звезды&style=for-the-badge&color=FFD700&logo=github" />
+  <a href="#">
+    <img src="https://img.shields.io/github/followers/Makis12rus?label=Подписчики&style=for-the-badge&color=00E050&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/stars/Makis12rus?label=Звезды&style=for-the-badge&color=FFD700&logo=github" />
+  </a>
 </p>
