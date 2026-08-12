@@ -72,16 +72,39 @@
 
 ### 📊 Телеметрия GitHub
 
+<!-- Верхняя панель с метриками и просмотрами -->
 <p align="center">
-  <a href="#">
-    <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" />
+  <a href="https://github.com/Makis12rus">
+    <img src="https://img.shields.io/github/followers/Makis12rus?style=for-the-badge&color=00E050&logo=github&label=Подписчики" alt="Followers" />
+  </a>
+  <a href="https://github.com/Makis12rus">
+    <img src="https://img.shields.io/github/stars/Makis12rus?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&label=Звёзды" alt="Stars" />
+  </a>
+  <a href="https://github.com/Makis12rus">
+    <img src="https://komarev.com/ghpvc/?username=Makis12rus&color=007ec6&style=for-the-badge&label=Просмотры" alt="Profile Views" />
   </a>
 </p>
+
+<!-- Статистика профиля + Топ языков в один ряд -->
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/github/followers/Makis12rus?style=for-the-badge&color=00E050&logo=github" />
+  <a href="https://github.com/Makis12rus">
+    <img src="https://github-readme-stats.vercel.app/api?username=Makis12rus&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/stars/Makis12rus?style=for-the-badge&color=FFD700&logo=github" />
+  <a href="https://github.com/Makis12rus">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makis12rus&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
+  </a>
+</p>
+
+<!-- Стрик активности -->
+<p align="center">
+  <a href="https://github.com/Makis12rus">
+    <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- График активности коммитов -->
+<p align="center">
+  <a href="https://github.com/Makis12rus">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Makis12rus&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
   </a>
 </p>
