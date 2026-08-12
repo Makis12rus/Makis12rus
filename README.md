@@ -72,33 +72,26 @@
 
 ### 📊 Телеметрия GitHub
 
-<!-- Верхняя панель с метриками и просмотрами -->
+<!-- Верхняя панель: Подписчики, Репозитории, Просмотры -->
 <p align="center">
-  <a href="https://github.com/Makis12rus">
-    <img src="https://img.shields.io/github/followers/Makis12rus?style=for-the-badge&color=00E050&logo=github&label=Подписчики" alt="Followers" />
+  <a href="https://github.com/Makis12rus?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Makis12rus-00E050?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
-  <a href="https://github.com/Makis12rus">
-    <img src="https://img.shields.io/github/stars/Makis12rus?affiliations=OWNER&style=for-the-badge&color=FFD700&logo=github&label=Звёзды" alt="Stars" />
+  <a href="https://github.com/Makis12rus?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Profile-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" />
   </a>
   <a href="https://github.com/Makis12rus">
     <img src="https://komarev.com/ghpvc/?username=Makis12rus&color=007ec6&style=for-the-badge&label=Просмотры" alt="Profile Views" />
   </a>
 </p>
 
-<!-- Статистика профиля + Топ языков в один ряд -->
+<!-- Карточка статистики и Топ языков -->
 <p align="center">
   <a href="https://github.com/Makis12rus">
-    <img src="https://github-readme-stats.vercel.app/api?username=Makis12rus&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Makis12rus&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Makis12rus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makis12rus&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
-  </a>
-</p>
-
-<!-- Стрик активности -->
-<p align="center">
-  <a href="https://github.com/Makis12rus">
-    <img src="https://streak-stats.demolab.com?user=Makis12rus&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Makis12rus&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="45%" />
   </a>
 </p>
 
